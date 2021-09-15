@@ -1,0 +1,1 @@
+run_dist.sh: 7: /opt/conda/bin/python: not found
